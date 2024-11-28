@@ -1,1 +1,3 @@
-bridge/target/
+bridge/target/*
+bridge/.DS_Store
+bridge/Cargo.lock

@@ -2,3 +2,4 @@ bridge/target/*
 bridge/.DS_Store
 bridge/Cargo.lock
 cryptography/target/*
+cryptography/Cargo.lock
